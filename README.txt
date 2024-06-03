@@ -1,4 +1,5 @@
 CLO835 Summer 2024 Assignment 1
+
 This repository contains the instructions and code for setting up a simple multi-container Docker application with Terraform and AWS. Follow the steps below to clone the repository, write the Terraform code, configure your environment, and run the Docker containers.
 
 Prerequisites
