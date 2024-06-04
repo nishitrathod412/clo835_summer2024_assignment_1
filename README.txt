@@ -7,11 +7,9 @@ Git
 Terraform
 AWS CLI
 Docker
+
 Clone the Repository
 First, clone the repository to your local machine.
-
-bash
-Copy code
 git clone https://github.com/ladunuthala/clo835_summer2023_assignment1.git
 Write Terraform Code
 Add your Terraform code to the cloned repository.
